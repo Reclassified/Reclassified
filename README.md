@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Reclassified</h1>
 <h3 align="center">A passionate C# Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reclassified&label=Profile%20views&color=0e75b6&style=flat" alt="reclassified" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Reclassified&label=Profile%20views&color=0e75b6&style=flat" alt="Reclassified" /> </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reclassified&count_private=true&layout=compact&hide_border=true&theme=gruvbox&langs_count=10&exclude_repo=github-readme-stats)
 
