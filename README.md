@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Reclassified&label=Profile%20views&color=0e75b6&style=flat" alt="Reclassified" /> </p>
 
-![Top Langs](https://gh-stats.vercel.app/api/top-langs/?username=Reclassified&layout=compact&theme=gruvbox))
+![Top Langs](https://gh-stats.vercel.app/api/top-langs/?username=Reclassified&layout=compact&theme=gruvbox)
 
 [![Reclassified's GitHub stats](https://gh-stats.vercel.app/api?username=Reclassified&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=gruvbox)](https://github.com/Reclassified)
 
