@@ -2,7 +2,7 @@
 <h3 align="center">A passionate C# Developer | Discord Bot & Unity Mod Enthusiast</h3>
 
 <p align="center">
-  <img src="github-readme-stats-6lzatrcu5-reclassifieds-projects.vercel.app/?username=Reclassified&label=Profile%20views&color=0e75b6&style=flat" alt="Reclassified" />
+  <img src="https://komarev.com/ghpvc/?username=Reclassified&label=Profile%20views&color=0e75b6&style=flat" alt="Reclassified" />
 </p>
 
 <p align="center">
