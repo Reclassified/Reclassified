@@ -2,7 +2,7 @@
 <h3 align="center">A passionate C# Developer | Discord Bot & Unity Mod Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Reclassified&label=Profile%20views&color=0e75b6&style=flat" alt="Reclassified" />
+  <img src="https://komarev.com/ghpvc/?username=Reclassified&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -12,22 +12,26 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-five-coral-98.vercel.app/api/top-langs/?username=Reclassified&layout=compact&theme=gruvbox" alt="Top Languages" />
+  <img src="https://github-readme-stats-five-coral-98.vercel.app/api/top-langs/?username=Reclassified&layout=compact&hide_border=true&theme=gruvbox&langs_count=10" alt="Top Languages" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Reclassified&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Reclassified&theme=onedark&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+  </a>
+</p>
 
 ---
 
-## 🎯 Currently
+## 🎯 Currently Working On
 - Experimenting with **AI-integrated Discord bots**  
-- Developing **Unity IL2CPP utilities**  
-- Learning **advanced C# patterns & low-level networking**
+- Developing **Unity IL2CPP utilities & loaders**  
+- Learning **advanced C# patterns & low-level networking**  
 
 ---
 
 ## 🧰 Tech Stack
-C# · .NET · DSharpPlus · Unity · IL2CPP · WebSockets · NGINX · Python · API Automation
+**C# · .NET · DSharpPlus · Unity · IL2CPP · WebSockets · NGINX · Python · API Automation**
 
 ---
 
