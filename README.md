@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Reclassified&theme=onedark&margin-w=10&margin-h=10"" alt="GitHub Trophies" />
+    <img src="https://trophy.benkou.dev/?username=Reclassified&theme=onedark&margin-w=10&margin-h=10"" alt="GitHub Trophies" />
   </a>
 </p>
 
